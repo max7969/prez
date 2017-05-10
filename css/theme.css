@@ -1,0 +1,51 @@
+body {
+	background-color: black;
+	font-family: arial;
+	text-align: center;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+.slide {
+	background-size: contain;	
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+#whosmax {
+	background-image: url("../img/me.jpg");
+}
+
+#lyon {
+	background-image: url("../img/lyon.jpg");
+}
+
+#trajet {
+	background-image: url("../img/trajet.png");
+}
+
+#marais {
+	background-image: url("../img/marais.jpg");
+}
+
+#trajet2 {
+	background-image: url("../img/trajet2.png");
+}
+
+#paris {
+	background-image: url("../img/paris.jpeg");
+}
+
+#villejuif {
+	background-image: url("../img/villejuif.jpg");
+}
+
+#trajet3 {
+	background-image: url("../img/trajet3.png");
+}
+
+#trajet4 {
+	background-image: url("../img/trajet4.png");
+}

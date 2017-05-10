@@ -2,16 +2,17 @@ body {
 	background-color: black;
 	font-family: arial;
 	text-align: center;
+	color: #cc0000;	
 }
 
 h1 {
-	font-size: 40px;
+	font-size: 50px;
 }
 
 .slide {
 	background-size: contain;	
 	background-repeat: no-repeat;
-	background-position: center top;
+	background-position: center center;
 }
 
 #whosmax {
@@ -35,17 +36,42 @@ h1 {
 }
 
 #paris {
-	background-image: url("../img/paris.jpeg");
+	background-image: url("../img/engineer.gif");
 }
 
 #villejuif {
 	background-image: url("../img/villejuif.jpg");
 }
 
-#trajet3 {
-	background-image: url("../img/trajet3.png");
-}
-
 #trajet4 {
 	background-image: url("../img/trajet4.png");
 }
+
+#etude2 {
+	background-image: url("../img/beer.gif");
+}
+
+#helsinki {
+	background-image: url("../img/etude3.gif");
+}
+
+#trajet5 {
+	background-image: url("../img/trajet5.png");
+}
+
+#bordeaux {
+	background-image: url("../img/bordeaux.gif");
+}
+
+#passion #dockimg {
+	margin-top: 10%;
+}
+
+#passion img {
+	height: 200px;
+}
+
+#byebye {
+	background-image: url("../img/byebye.gif");
+}
+
